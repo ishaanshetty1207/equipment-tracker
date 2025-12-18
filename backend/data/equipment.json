@@ -1,0 +1,23 @@
+[
+  {
+    "id": "9ca254a2-8544-43ce-8543-899f1f42b421",
+    "name": "router",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleaned": "2025-12-09"
+  },
+  {
+    "id": "f7eec1f6-f2c7-4845-88c8-bfae8fe7a6a9",
+    "name": "laptoop ",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleaned": "2025-12-17"
+  },
+  {
+    "id": "3459d838-b7ab-4a67-a2f9-88f2f5c7300f",
+    "name": "glass",
+    "type": "Vessel",
+    "status": "Under Maintenance",
+    "lastCleaned": "2025-12-10"
+  }
+]
